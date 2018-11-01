@@ -1,2 +1,7 @@
 const a = 3;
-console.log(a)
+
+function sum(x) {
+  return x;
+}
+
+sum(a);
